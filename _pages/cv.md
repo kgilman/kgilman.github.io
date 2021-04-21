@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering, University of Michigan, 2022 (Expected)
+* M.S. in Electrical Engineering, University of Michigan, 2019
+* B.S. in Electrical Engineering, University of Wyoming, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant (2017-Present)
+  * University of Michigan, Ann Arbor, MI
+  * Advisor: Laura Balzano
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2017: Research Assistant
+  * United States Air Force Research Laboratory
+  * Filled Elastomer Image Processing
+  * Supervisor: Jennifer Price
+
+* Summer 2016: Research Assistant
+  * United States Air Force Research Laboratory
+  * Polymer Matrix Composite (PMC) Image Processing
+  * Supervisor: Michael Uchic
+  
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+David Hong, Kyle Gilman, Laura Balzano, \& Jeffrey A. Fessler. HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise, 2021. arXiv preprint arXiv:2101.03468.
+
+Kyle Gilman and Laura Balzano. Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2021. arXiv preprint arXiv:2001.11419.
+
+Kyle Gilman and Laura Balzano. Online Tensor Completion and Free Submodule Tracking with the t-SVD, 2020. ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+
+Kyle Gilman and Laura Balzano. Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation, 2019. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).
+
   
-Talks
+Lectures and Posters at Conferences, Workshops and Symposiums
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+"Grassmannian Optimization for Online Tensor Completion and Tracking in the t-SVD Algebra," Institute of Advanced Studies Workshop on Missing data, 2020.
+
+"Online Tensor Completion and Free Submodule Tracking with the t-SVD," 2020 International Conference on Acoustics, Speech, and Signal Processing. Barcelona, Spain. 2020. 
+
+"Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation," International Conference on Computer Vision 2019 Workshop on Robust Subspace Learning and Applications in Computer Vision. Seoul, South Korea. 2019. 
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Fall 2019 and 2020  EECS 505, Computational Data Science and Machine Learning, Department of Electrical and Computer Engineering, University of Michigan, Ann Arbor, MI.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
