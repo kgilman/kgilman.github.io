@@ -2,7 +2,7 @@
 title: "Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation"
 collection: publications
 permalink: /publication/2019-pangaea
-excerpt: 
+excerpt: 'In this work, we propose a new total variation (TV)-regularized robust principal component analysis (RPCA) algorithm for panoramic video data with incremental gradient descent on the Grassmannian.'
 date: 2019-11
 venue: '2019 Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) - Workshop'
 paperurl: 'https://ieeexplore.ieee.org/document/9022344'
