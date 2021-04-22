@@ -2,7 +2,7 @@
 title: "HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise"
 collection: arXiv
 permalink: /publication/2021-heppcat
-excerpt: 
+excerpt: 'This paper develops a probabilistic PCA variant that estimates and accounts for this heterogeneity by incorporating it in the statistical model.'
 date: 2021
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2101.03468'
