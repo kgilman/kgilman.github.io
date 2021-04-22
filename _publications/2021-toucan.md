@@ -1,0 +1,15 @@
+---
+title: "Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD"
+collection: publications
+permalink: /publication/2021-toucan
+excerpt: 
+date: 2021
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2001.11419'
+citation: 'Kyle Gilman and Laura Balzano (2021). &quot;Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD.&quot; <i>arXiv 1</i>.'
+---
+We propose a new fast streaming algorithm for the tensor completion problem of imputing missing entries of a low-tubal-rank tensor using the tensor singular value decomposition (t-SVD) algebraic framework. We show the t-SVD is a specialization of the well-studied block-term decomposition for third-order tensors, and we present an algorithm under this model that can track changing free submodules from incomplete streaming 2-D data. We use principles from incremental gradient descent on the Grassmann manifold of subspaces to solve the tensor completion problem with linear complexity and constant memory in the number of time samples. Our results are competitive in accuracy but much faster in compute time than state-of-the-art tensor completion algorithms on real applications to recover temporal chemo-sensing and MRI data under limited sampling.
+
+[Download paper here](https://arxiv.org/abs/2001.11419)
+
+Recommended citation: Kyle Gilman and Laura Balzano. Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2021. arXiv preprint arXiv:2001.11419.
