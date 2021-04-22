@@ -1,0 +1,15 @@
+---
+title: "HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise"
+collection: arXiv
+permalink: /publication/2021-heppcat
+excerpt: 
+date: 2021
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2101.03468'
+citation: 'David Hong, Kyle Gilman, Laura Balzano, and Jeffrey A. Fessler (2021). &quot;HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise &quot; <i>arXiv 1</i>.'
+---
+Principal component analysis (PCA) is a classical and ubiquitous method for reducing data dimensionality, but it is suboptimal for heterogeneous data that are increasingly common in modern applications. PCA treats all samples uniformly so degrades when the noise is heteroscedastic across samples, as occurs, e.g., when samples come from sources of heterogeneous quality. This paper develops a probabilistic PCA variant that estimates and accounts for this heterogeneity by incorporating it in the statistical model. Unlike in the homoscedastic setting, the resulting nonconvex optimization problem is not seemingly solved by singular value decomposition. This paper develops a heteroscedastic probabilistic PCA technique (HePPCAT) that uses efficient alternating maximization algorithms to jointly estimate both the underlying factors and the unknown noise variances. Simulation experiments illustrate the comparative speed of the algorithms, the benefit of accounting for heteroscedasticity, and the seemingly favorable optimization landscape of this problem.
+
+[Download paper here](https://arxiv.org/abs/2101.03468)
+
+Recommended citation: David Hong, Kyle Gilman, Laura Balzano, and Jeffrey A. Fessler. HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise, 2021. arXiv preprint arXiv:2101.03468.
