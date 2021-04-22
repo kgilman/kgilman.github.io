@@ -2,7 +2,7 @@
 title: "Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD"
 collection: publications
 permalink: /publication/2021-toucan
-excerpt: 
+excerpt: 'We propose a new fast streaming algorithm for the tensor completion problem of imputing missing entries of a low-tubal-rank tensor using the tensor singular value decomposition (t-SVD) algebraic framework.'
 date: 2021
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2001.11419'
