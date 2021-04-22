@@ -12,4 +12,4 @@ We propose a new online algorithm, called TOUCAN, for the tensor completion prob
 
 [Download paper here](https://ieeexplore.ieee.org/document/9053199)
 
-Recommended citation: YKyle Gilman and Laura Balzano. Online Tensor Completion and Free Submodule Tracking with the t-SVD, 2020. ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
+Recommended citation: Kyle Gilman and Laura Balzano. Online Tensor Completion and Free Submodule Tracking with the t-SVD, 2020. ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).
