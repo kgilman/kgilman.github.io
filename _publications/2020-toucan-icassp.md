@@ -2,7 +2,7 @@
 title: "Online Tensor Completion and Free Submodule Tracking with the t-SVD"
 collection: publications
 permalink: /publication/2020-toucan-icassp
-excerpt: 
+excerpt: 'We propose a new online algorithm, called TOUCAN, for the tensor completion problem of imputing missing entries of a low tubal-rank tensor using the tensor-tensor product (t- product) and tensor singular value decomposition (t-SVD) algebraic framework.'
 date: 2020-05-04
 venue: '2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'https://ieeexplore.ieee.org/document/9053199'
