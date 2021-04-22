@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a member of the [Signal Processing Algorithm Design and Analysis (SPADA) lab](https://web.eecs.umich.edu/~girasole/?page_id=235) advised by Prof. Laura Balzano at the University of Michigan. My research focuses on nonconvex optimization problems with applications in computer vision and signal processing applications. My favorite problems include
+I'm a member of the [Signal Processing Algorithm Design and Analysis (SPADA) lab](https://web.eecs.umich.edu/~girasole/?page_id=235) advised by Professor Laura Balzano at the University of Michigan. My research focuses on nonconvex optimization problems with applications in computer vision and signal processing applications. My favorite problems include
 <ul>
   <li>Nonconvex matrix and tensor factorization</li>
   <li>Optimization on Riemannian manifolds</li>
