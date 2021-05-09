@@ -12,7 +12,7 @@ I'm a member of the [Signal Processing Algorithm Design and Analysis (SPADA) lab
 <ul>
   <li>Nonconvex matrix and tensor factorization</li>
   <li>Optimization on Riemannian manifolds</li>
-  <li>Online methods and low-dimensional models</li>
+  <li>Online algorithms and low-dimensional models</li>
   <li>Randomized matrix sketching</li>
 </ul>
 
