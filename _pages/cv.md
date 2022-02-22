@@ -36,7 +36,7 @@ Work experience
 Publications
 ======
 
-David Hong, Kyle Gilman, Laura Balzano, \& Jeffrey A. Fessler. HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise, 2021. arXiv preprint arXiv:2101.03468.
+David Hong, Kyle Gilman, Laura Balzano, \& Jeffrey A. Fessler. HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise. IEEE Transactions on Signal Processing, Vol. 69, 2021.
 
 Kyle Gilman and Laura Balzano. Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2021. arXiv preprint arXiv:2001.11419.
 
