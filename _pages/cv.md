@@ -40,7 +40,7 @@ Work experience
 Publications
 ======
 
-Gilman, K., Burer, S. \& Balzano, L. A Semide nite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold. ArXiv Preprint ArXiv:2205.13653. (2022).
+Gilman, K., Burer, S. \& Balzano, L. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold. ArXiv Preprint ArXiv:2205.13653. (2022).
 
 Gilman, K., Tarzanagh, D. \& Balzano, L. Grassmannian Optimization for Online Tensor Completion and Tracking With the t-SVD. IEEE Transactions On Signal Processing. 70 pp. 2152-2167 (2022).
 
