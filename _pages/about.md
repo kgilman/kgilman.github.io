@@ -19,9 +19,11 @@ I'm a member of the [Signal Processing Algorithm Design and Analysis (SPADA) lab
 
 Publications
 ======
-David Hong, <b>Kyle Gilman</b>, Laura Balzano, & Jeffrey A. Fessler. HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise, 2021. IEEE Transactions on Signal Processing, Vol. 69, 2021. [Paper](https://arxiv.org/abs/2101.03468)
+<b>Kyle Gilman</b>, Sam Burer, & Laura Balzano. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold, 2022. arXiv preprint. [Paper](https://arxiv.org/abs/2205.13653)
 
-<b>Kyle Gilman</b> and Laura Balzano.  Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2021. arXiv preprint arXiv:2001.11419. [Paper](https://arxiv.org/abs/2001.11419)
+<b>Kyle Gilman</b>, Davoud Ataee Tarzanagh, & Laura Balzano. Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2022. IEEE Transactions On Signal Processing. 70 pp. 2152-2167. [Paper](https://arxiv.org/abs/2001.11419)
+
+David Hong, <b>Kyle Gilman</b>, Laura Balzano, & Jeffrey A. Fessler. HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise, 2021. IEEE Transactions on Signal Processing, Vol. 69, 2021. [Paper](https://arxiv.org/abs/2101.03468)
 
 <b>Kyle Gilman</b> and Laura Balzano. Online Tensor Completion and Free Submodule Tracking with the t-SVD, 2020. ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [Paper](https://ieeexplore.ieee.org/document/9053199)
 
