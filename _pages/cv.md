@@ -40,15 +40,15 @@ Work experience
 Publications
 ======
 
-Gilman, K., Burer, S. \& Balzano, L. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold. ArXiv Preprint ArXiv:2205.13653. (2022).
+Gilman, K., Burer, S. & Balzano, L. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold. ArXiv Preprint ArXiv:2205.13653. (2022).
 
-Gilman, K., Tarzanagh, D. \& Balzano, L. Grassmannian Optimization for Online Tensor Completion and Tracking With the t-SVD. IEEE Transactions On Signal Processing. 70 pp. 2152-2167 (2022).
+Gilman, K., Tarzanagh, D. & Balzano, L. Grassmannian Optimization for Online Tensor Completion and Tracking With the t-SVD. IEEE Transactions On Signal Processing. 70 pp. 2152-2167 (2022).
 
-Hong, D., Gilman, K., Balzano, L. \& Fessler, J. HePPCAT: Probabilistic PCA for Data With Heteroscedastic Noise. IEEE Transactions On Signal Processing. 69 pp. 4819-4834 (2021).
+Hong, D., Gilman, K., Balzano, L. & Fessler, J. HePPCAT: Probabilistic PCA for Data With Heteroscedastic Noise. IEEE Transactions On Signal Processing. 69 pp. 4819-4834 (2021).
 
-Gilman, K. \& Balzano, L. Online Tensor Completion and Free Submodule Tracking with the t-SVD. ICASSP 2020-2020 IEEE International Conference On Acoustics, Speech And Signal Processing (ICASSP). pp. 3282-3286 (2020).
+Gilman, K. & Balzano, L. Online Tensor Completion and Free Submodule Tracking with the t-SVD. ICASSP 2020-2020 IEEE International Conference On Acoustics, Speech And Signal Processing (ICASSP). pp. 3282-3286 (2020).
 
-Gilman, K. \& Balzano, L. Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation. Proceedings Of The IEEE/CVF International Conference On Computer Vision Workshops. pp. 0-0 (2019).
+Gilman, K. & Balzano, L. Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation. Proceedings Of The IEEE/CVF International Conference On Computer Vision Workshops. pp. 0-0 (2019).
 
   
 Lectures and Posters at Conferences, Workshops and Symposiums
