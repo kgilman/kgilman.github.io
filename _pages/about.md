@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm a member of the [Signal Processing Algorithm Design and Analysis (SPADA) lab](https://web.eecs.umich.edu/~girasole/?page_id=235) advised by Professor Laura Balzano at the University of Michigan. My research focuses on nonconvex optimization problems with applications in computer vision and signal processing. My favorite problems include
+Hi! I'm currently an Applied AI/ML Senior Associate at JPMorgan Chase where I work on optimization and signal processing for large, messy time series data.
+
+I received my Ph.D. from the Department of Electrical and Computer Engineering at the University of Michigan in 2022, where I was advised by Professor Laura Balzano. My research focuses on nonconvex optimization and signal processing. My favorite problems include
 <ul>
   <li>Nonconvex matrix and tensor factorization</li>
   <li>Optimization on Riemannian manifolds</li>
   <li>Online algorithms and low-dimensional models</li>
   <li>Heteroscedastic noise models</li>
+  <li>Corrupted and noisy data with missing entries</li>
   <li>Semidefinite programming</li>
 </ul>
 
