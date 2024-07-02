@@ -11,14 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering, University of Michigan, 2022 (Expected)
+* Ph.D in Electrical Engineering, University of Michigan, 2022
 * M.S. in Electrical Engineering, University of Michigan, 2019
 * B.S. in Electrical Engineering, University of Wyoming, 2017
 
 Work experience
 ======
+* AI/ML Modeling
+  * JPMorgan Chase, Columbus, OH
 
-* Graduate Research Assistant (2017-Present)
+* Graduate Research Assistant (2017-2022)
   * University of Michigan, Ann Arbor, MI
   * Advisor: Laura Balzano
 
