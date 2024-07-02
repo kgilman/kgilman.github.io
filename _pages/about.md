@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm currently an Applied AI/ML Senior Associate at JPMorgan Chase where I work on optimization and signal processing for large, messy time series data.
+I am a currently a Member of Technical Staff at MIT Lincoln Laboratory. Prior to that, I worked in AI/ML modeling at JPMorgan Chase. I received my PhD from the Department of Electrical and Computer Engineering at the University of Michigan in 2022, where I was advised by Professor Laura Balzano. 
 
-I received my Ph.D. from the Department of Electrical and Computer Engineering at the University of Michigan in 2022, where I was advised by Professor Laura Balzano. My research focuses on nonconvex optimization and signal processing. My favorite problems include
+My research focuses on unsupervised machine learning, statistical signal processing, and optimization. I design and analyze new algorithms for problems with big messy data, developing methods with principled modeling techniques and theoretical guarantees. I have applied my work across a diverse range of real applications that spans signal processing, computer vision, medical imaging, banking, environmental sensing, and more. My favorite problems include
 <ul>
   <li>Nonconvex matrix and tensor factorization</li>
   <li>Optimization on Riemannian manifolds</li>
