@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kyle Gilman"
 title_separator          : "-"
 name                     : &name "Kyle Gilman"
-description              : &description "University of Michigan, Department of Electrical Engineering & Computer Science"
+description              : &description "MIT Lincoln Laboratory"
 url                      : https://kgilman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://kgilman/kgilman.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kyle Gilman"
   avatar           : "headshot_circular.jpg"
-  bio              : "University of Michigan, Department of Electrical Engineering & Computer Science"
-  location         : "Ann Arbor, Michigan"
+  bio              : "MIT Lincoln Laboratory"
+  location         : "Lexington, MA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9DNXppMAAAAJ&hl=en"
