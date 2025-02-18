@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-* AI/ML Modeling
+* Member of Technical Staff (June 2024 - Present)
+  * MIT Lincoln Laboratory, Lexington, MA
+
+* AI/ML Modeling (Jan 2023 - April 2024)
   * JPMorgan Chase, Columbus, OH
 
 * Graduate Research Assistant (2017-2022)
@@ -42,7 +45,9 @@ Work experience
 Publications
 ======
 
-Gilman, K., Burer, S. & Balzano, L. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold. ArXiv Preprint ArXiv:2205.13653. (2022).
+Gilman, K., Burer, S. & Balzano, L. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold. To appear in SIAM Journal on Matrix Analysis and Applications (2025).
+
+Gilman, K., Hong, D., Fessler, J. & Balzano, L. Streaming Probabilistic PCA for Missing Data with Heteroscedastic Noise. Arxiv preprint 2310.06277 (2023).
 
 Gilman, K., Tarzanagh, D. & Balzano, L. Grassmannian Optimization for Online Tensor Completion and Tracking With the t-SVD. IEEE Transactions On Signal Processing. 70 pp. 2152-2167 (2022).
 
