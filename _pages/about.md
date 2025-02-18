@@ -24,7 +24,7 @@ Publications
 ======
 <b>Kyle Gilman</b>, David Hong, Jeffrey Fessler & Laura Balzano.Streaming Probabilistic PCA for Missing Data with Heteroscedastic Noise, 2023. arxiv preprint 2310.06277 [Paper](https://arxiv.org/abs/2310.06277)
 
-<b>Kyle Gilman</b>, Sam Burer, & Laura Balzano. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold, 2022. To appear in SIAM Journal on Matrix Analysis Applications. [Paper](https://arxiv.org/abs/2205.13653)
+<b>Kyle Gilman</b>, Sam Burer, & Laura Balzano. A Semidefinite Relaxation for Sums of Heterogeneous Quadratic Forms on the Stiefel Manifold, 2022. To appear in SIAM Journal on Matrix Analysis Applications. [Paper](https://arxiv.org/abs/2205.13653)
 
 <b>Kyle Gilman</b>, Davoud Ataee Tarzanagh, & Laura Balzano. Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2022. IEEE Transactions On Signal Processing. 70 pp. 2152-2167. [Paper](https://arxiv.org/abs/2001.11419)
 
