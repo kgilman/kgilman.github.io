@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently a Member of Technical Staff at MIT Lincoln Laboratory. Prior to that, I worked in AI/ML modeling at JPMorgan Chase. I received my PhD from the Department of Electrical and Computer Engineering at the University of Michigan in 2022, where I was advised by Professor Laura Balzano. 
+I am a currently a Member of Technical Staff at MIT Lincoln Laboratory, where I research machine learning for RF signal processing. I received my PhD from the Department of Electrical and Computer Engineering at the University of Michigan in 2022, where I was advised by Professor Laura Balzano. 
 
 My research focuses on unsupervised machine learning, statistical signal processing, and optimization. I design and analyze new algorithms for problems with big messy data, developing methods with principled modeling techniques and theoretical guarantees. I have applied my work across a diverse range of real applications that spans signal processing, computer vision, medical imaging, banking, environmental sensing, and more. My favorite problems include
 <ul>
@@ -22,7 +22,9 @@ My research focuses on unsupervised machine learning, statistical signal process
 
 Publications
 ======
-<b>Kyle Gilman</b>, Sam Burer, & Laura Balzano. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold, 2022. arXiv preprint. [Paper](https://arxiv.org/abs/2205.13653)
+<b>Kyle Gilman</b>, David Hong, Jeffrey Fessler & Laura Balzano.Streaming Probabilistic PCA for Missing Data with Heteroscedastic Noise, 2023. arxiv [Paper](https://arxiv.org/abs/2310.06277)
+
+<b>Kyle Gilman</b>, Sam Burer, & Laura Balzano. A Semidefinite Relaxation for Sums of Heterogeneous Quadratics on the Stiefel Manifold, 2022. To appear in SIAM Journal on Matrix Analysis Applications. [Paper](https://arxiv.org/abs/2205.13653)
 
 <b>Kyle Gilman</b>, Davoud Ataee Tarzanagh, & Laura Balzano. Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2022. IEEE Transactions On Signal Processing. 70 pp. 2152-2167. [Paper](https://arxiv.org/abs/2001.11419)
 
