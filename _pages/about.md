@@ -22,16 +22,17 @@ My research focuses on unsupervised machine learning, statistical signal process
 
 Publications
 ======
-<b>Kyle Gilman</b>, David Hong, Jeffrey Fessler & Laura Balzano.Streaming Probabilistic PCA for Missing Data with Heteroscedastic Noise, 2023. arxiv preprint 2310.06277 [Paper](https://arxiv.org/abs/2310.06277)
 
-<b>Kyle Gilman</b>, Sam Burer, & Laura Balzano. A Semidefinite Relaxation for Sums of Heterogeneous Quadratic Forms on the Stiefel Manifold, 2022. To appear in SIAM Journal on Matrix Analysis Applications. [Paper](https://arxiv.org/abs/2205.13653)
+<u>Kyle Gilman</u>, Sam Burer, & Laura Balzano. <b>A Semidefinite Relaxation for Sums of Heterogeneous Quadratic Forms on the Stiefel Manifold</b>, 2025. To appear in SIAM Journal on Matrix Analysis Applications. [Paper](https://arxiv.org/abs/2205.13653)
 
-<b>Kyle Gilman</b>, Davoud Ataee Tarzanagh, & Laura Balzano. Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD, 2022. IEEE Transactions On Signal Processing. 70 pp. 2152-2167. [Paper](https://arxiv.org/abs/2001.11419)
+<u>Kyle Gilman</u>, David Hong, Jeffrey Fessler & Laura Balzano. <b>Streaming Probabilistic PCA for Missing Data with Heteroscedastic Noise</b>, 2023. arxiv preprint 2310.06277 [Paper](https://arxiv.org/abs/2310.06277)
 
-David Hong, <b>Kyle Gilman</b>, Laura Balzano, & Jeffrey A. Fessler. HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise, 2021. IEEE Transactions on Signal Processing, Vol. 69, 2021. [Paper](https://arxiv.org/abs/2101.03468)
+<u>Kyle Gilman</u>, Davoud Ataee Tarzanagh, & Laura Balzano. <b>Grassmannian Optimization for Online Tensor Completion and Tracking with the t-SVD</b>, 2022. IEEE Transactions On Signal Processing. 70 pp. 2152-2167. [Paper](https://arxiv.org/abs/2001.11419)
 
-<b>Kyle Gilman</b> and Laura Balzano. Online Tensor Completion and Free Submodule Tracking with the t-SVD, 2020. ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [Paper](https://ieeexplore.ieee.org/document/9053199)
+David Hong, <u>Kyle Gilman</u>, Laura Balzano, & Jeffrey A. Fessler. <b>HePPCAT: Probabilistic PCA for Data with Heteroscedastic Noise</b>, 2021. IEEE Transactions on Signal Processing, Vol. 69, 2021. [Paper](https://arxiv.org/abs/2101.03468)
 
-<b>Kyle Gilman</b> and Laura Balzano. Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation, 2019. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). [Paper](https://ieeexplore.ieee.org/document/9022344)
+<u>Kyle Gilman</u> and Laura Balzano. <b>Online Tensor Completion and Free Submodule Tracking with the t-SVD</b>, 2020. ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). [Paper](https://ieeexplore.ieee.org/document/9053199)
+
+<u>Kyle Gilman</u> and Laura Balzano. <b>Panoramic Video Separation with Online Grassmannian Robust Subspace Estimation</b>, 2019. Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV). [Paper](https://ieeexplore.ieee.org/document/9022344)
 
 
