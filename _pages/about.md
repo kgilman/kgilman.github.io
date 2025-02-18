@@ -12,11 +12,11 @@ I am a currently a Member of Technical Staff at MIT Lincoln Laboratory researchi
 
 My research focuses on unsupervised machine learning, statistical signal processing, and optimization. I design and analyze new algorithms for problems with big messy data, developing methods with principled modeling techniques and theoretical guarantees. I have applied my work across a diverse range of real applications that spans signal processing, computer vision, medical imaging, banking, environmental sensing, and more. My favorite problems include
 <ul>
-  <li>Nonconvex matrix and tensor factorization</li>
-  <li>Optimization on Riemannian manifolds</li>
-  <li>Online algorithms and low-dimensional models</li>
+  <li>Low-rank matrix and tensor factorizations</li>
+  <li>Optimization</li>
+  <li>Online/streaming algorithms</li>
   <li>Heteroscedastic noise models</li>
-  <li>Corrupted and noisy data with missing entries</li>
+  <li>Data with noisy, missing, and/or corrupted entries</li>
   <li>Semidefinite programming</li>
 </ul>
 
