@@ -61,6 +61,8 @@ Gilman, K. & Balzano, L. Panoramic Video Separation with Online Grassmannian Rob
 Lectures and Posters at Conferences, Workshops and Symposiums
 ======
 
+"A Tight SDP Relaxation for Heteroscedastic PCA,” SIAM Mathematics of Data Science Conference 2022, San Diego, CA, September 2022.
+
 "Algorithms for Nonconvex Probabilistic PCA for Data With Heteroscedastic Noise," INFORMS Optimization Society Conference 2022, Greenville, South Carolina, March 2022.
 
 "Streaming Probabilistic PCA for Missing Data with Heteroscedastic Noise", Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS) 2022, University of Michigan, March 2022.
