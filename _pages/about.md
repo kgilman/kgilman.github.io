@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a currently a Member of Technical Staff at MIT Lincoln Laboratory, where I research machine learning for RF signal processing. I received my PhD from the Department of Electrical and Computer Engineering at the University of Michigan in 2022, where I was advised by Professor Laura Balzano. 
+I am a currently a Member of Technical Staff at MIT Lincoln Laboratory researching machine learning for RF signal processing. I received my PhD from the Department of Electrical and Computer Engineering at the University of Michigan in 2022, where I was advised by Professor Laura Balzano. 
 
 My research focuses on unsupervised machine learning, statistical signal processing, and optimization. I design and analyze new algorithms for problems with big messy data, developing methods with principled modeling techniques and theoretical guarantees. I have applied my work across a diverse range of real applications that spans signal processing, computer vision, medical imaging, banking, environmental sensing, and more. My favorite problems include
 <ul>
