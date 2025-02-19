@@ -23,7 +23,7 @@ My research focuses on unsupervised machine learning, statistical signal process
 Publications
 ======
 
-<u>Kyle Gilman</u>, Sam Burer, & Laura Balzano. <b>A Semidefinite Relaxation for Sums of Heterogeneous Quadratic Forms on the Stiefel Manifold</b>, 2025. To appear in SIAM Journal on Matrix Analysis Applications. [Paper](https://arxiv.org/abs/2205.13653)
+<u>Kyle Gilman</u>, Sam Burer, & Laura Balzano. <b>A Semidefinite Relaxation for Sums of Heterogeneous Quadratic Forms on the Stiefel Manifold</b>, 2025. To appear in SIAM Journal on Matrix Analysis and Applications. [Paper](https://arxiv.org/abs/2205.13653)
 
 <u>Kyle Gilman</u>, David Hong, Jeffrey Fessler & Laura Balzano. <b>Streaming Probabilistic PCA for Missing Data with Heteroscedastic Noise</b>, 2023. arxiv preprint 2310.06277 [Paper](https://arxiv.org/abs/2310.06277)
 
